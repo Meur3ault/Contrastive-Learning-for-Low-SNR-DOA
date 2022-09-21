@@ -1,4 +1,4 @@
-# ViT_lowSNR_DOA
+# LowSNR_DOA
 ## As the result is under review, just part of the codes are revealed.
 [Music algorithm Python implementation](https://github.com/Meur3ault/ViT_lowSNR_DOA/blob/main/MUSIC_algorithm.ipynb)  
 [Steering matrix generation](https://github.com/Meur3ault/ViT_lowSNR_DOA/blob/main/steering%20martix.ipynb)  
